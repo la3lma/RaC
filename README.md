@@ -10,3 +10,10 @@ Here are some data sets:
 [2] From Johns Hopkins CSSE: https://github.com/CSSEGISandData/COVID-19 
 
 (Do we need to add a copyright here?)
+
+
+[3] From EU.  https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
+[4] Fromo statista.  https://www.statista.com/statistics/1043366/novel-coronavirus-2019ncov-cases-worldwide-by-country/ 
+
+
+
